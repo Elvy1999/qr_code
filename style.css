@@ -21,6 +21,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  /* The box shadow give the container a semi 3d look */
+  box-shadow: 1px 10px 1rem rgba(31, 50, 81, 0.2);
 }
 
 .container img {
